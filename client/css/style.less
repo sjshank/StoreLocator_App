@@ -1,0 +1,111 @@
+@color-lightBlack :#5e5e5e; 
+@color-white: #eee;
+body{
+    background: @color-white !important; 
+    .backgroundColor(@color-white) !important;
+    color: @color-lightBlack;
+}
+//Mixins as Functions
+.overflow-class() {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;    
+}
+h1 {
+    //calling function here
+  .overflow-class;
+  color: @color-lightBlack;
+}
+.float-left {
+    float: left;
+}
+.display-block {
+    display: block;
+}
+//paramteric mixins
+.getWidth(@w) {
+    width: @w;
+}
+.border-lightBlack {
+    border: 1px solid @color-lightBlack;
+}
+//Parametric mixins can also have default values for their parameters:
+.border-radius(@radius : 4px) {
+    border-radius: @radius;
+}
+.backgroundColor(@bc) {
+    background-color: @bc;
+}
+.search-box {
+    margin-right: 28px;
+    .getWidth(66%);
+    .float-left;
+    .border-lightBlack;
+}
+#map {
+    height: 600px;
+    position: relative;
+    .getWidth(100%);
+    .border-lightBlack;
+    .border-radius(4px);
+}
+//parametric mixins
+.warningDiv {
+    .getWidth(66%);
+ }
+ .store-container {
+    padding-left: 30px;
+    padding-right: 30px;     
+ }
+ 
+ //mixins example
+ .store-list {
+    .backgroundColor(transparent);
+    color: @color-lightBlack;
+    .border-lightBlack;
+    .border-radius(4px);
+    .display-block;
+    margin: 0 20px 15px 0;
+    overflow: hidden;
+    padding: 8px;
+    .getWidth(100%);
+        h2 {
+            margin: 0;
+            padding: 0;
+            margin-bottom: 10px;
+            font-size: 30px;
+            color: #2770f9;
+            .overflow-class;          
+        }
+       p {
+            .overflow-class;        
+       }
+       .crop {
+            width: 150px;
+            height: 135px;
+            overflow: hidden;
+            .float-left;
+            margin-right: 5px;
+            background: white;
+            text-align: center;
+            border: 1px solid #ccccd2;
+                img {
+                    width: auto;
+                    height: 135px;                    
+                }
+            }
+}
+.sectionDiv {
+    .backgroundColor(#f8f8f8);
+    .border-lightBlack;
+    .border-radius(4px);
+}
+.store-section {
+    color: @color-lightBlack;
+    .backgroundColor(transaprent);
+    padding: 20px; 
+}
+.errorTxt {
+  color: red;
+  font-size: 12px;
+}
