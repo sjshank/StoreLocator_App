@@ -63,9 +63,5 @@ Steps to follow for running app :
     inside same directory where you can see all the mentioned dependencies inside
     'package.json' will gets installed.
     4. Run 'node app.js' over root directory.
-    
-<<<<<<< HEAD
+
     Hit "localhost:4000" to see running application
-=======
-    Hit "localhost:4000" to see running application
->>>>>>> ac84f4b0a284f231692761694a0b52a1f38d189f
