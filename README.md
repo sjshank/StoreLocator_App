@@ -1,6 +1,6 @@
 # StoreLocator_App
 
-A MEAN Stack based web application to find and locate nearby stores using zipcode.
+A MEAN Stack based web application to find and locate STORE X on Google MAP within 50KM radius based on Zip-Code.
 
 
 
