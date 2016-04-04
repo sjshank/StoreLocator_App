@@ -1,0 +1,37 @@
+{
+  "name": "storelocator_app",
+  "version": "1.0.0",
+  "description": "A MEAN Stack based web application to find and locate nearby stores using zipcode.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjshank/storelocator.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Nodejs",
+    "Angularjs",
+    "GoogleMap",
+    "API",
+    "Mongodb"
+  ],
+  "author": "Shankariya, Saurabh <sshankariya@gmail.com>",
+  "license": "ISC",
+   "bugs": {
+    "url": "https://github.com/sjshank/storelocator/issues"
+  },
+  "homepage": "https://github.com/sjshank/storelocator#readme",
+  "dependencies":{
+	"angular": "^1.2.29",
+    "angular-route": "^1.2.29",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.8",
+    "jsonfile": "^2.2.3",
+    "log4js": "^0.6.33",
+    "debug": "^2.2.0"
+	}
+}

@@ -1,2 +1,0 @@
-[2016-03-23 17:52:44.107] [ERROR] db - Unable to connect database MongoError: connect ECONNREFUSED 127.0.0.1:27017
-[2016-03-23 18:20:31.206] [ERROR] db - Unable to connect database MongoError: connect ECONNREFUSED 127.0.0.1:27017

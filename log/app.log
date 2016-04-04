@@ -60,44 +60,19 @@
 [2016-03-21 19:12:59.697] [DEBUG] storeController - Inside getstores method
 [2016-03-21 19:13:50.623] [DEBUG] storeController - Inside getstores method
 [2016-03-21 19:14:35.310] [DEBUG] storeController - Inside getstores method
-[2016-03-22 16:01:12.086] [DEBUG] db - Mongodb connection callback
-[2016-03-22 16:01:12.088] [INFO] db - Connection established !
-[2016-03-22 16:01:26.312] [DEBUG] storeController - Inside getstores method
-[2016-03-22 16:23:16.781] [DEBUG] storeController - Inside getstores method
-[2016-03-22 16:30:49.311] [DEBUG] storeController - Inside getstores method
-[2016-03-22 16:37:49.082] [DEBUG] storeController - Inside getstores method
-[2016-03-23 17:52:44.107] [DEBUG] db - Mongodb connection callback
-[2016-03-23 18:20:31.204] [DEBUG] db - Mongodb connection callback
-[2016-03-23 19:06:57.882] [DEBUG] db - Mongodb connection callback
-[2016-03-23 19:06:57.883] [INFO] db - Connection established !
-[2016-03-23 19:10:54.794] [DEBUG] db - Mongodb connection callback
-[2016-03-23 19:10:54.796] [INFO] db - Connection established !
-[2016-03-23 19:10:59.723] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-23 19:13:44.774] [DEBUG] db - Mongodb connection callback
-[2016-03-23 19:13:44.776] [INFO] db - Connection established !
-[2016-03-23 19:13:47.952] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:24:47.306] [DEBUG] db - Mongodb connection callback
-[2016-03-29 22:24:47.307] [INFO] db - Connection established !
-[2016-03-29 22:24:58.424] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:25:24.057] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:25:52.082] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:27:44.107] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:28:21.197] [INFO] loadAddress - Dummy address obejct load successfully
-[2016-03-29 22:29:43.310] [DEBUG] db - Mongodb connection callback
-[2016-03-29 22:29:43.310] [INFO] db - Connection established !
-[2016-03-29 22:29:49.604] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:30:07.104] [DEBUG] db - Mongodb connection callback
-[2016-03-29 22:30:07.105] [INFO] db - Connection established !
-[2016-03-29 22:30:15.436] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:30:21.139] [INFO] loadAddress - Dummy address obejct load successfully
-[2016-03-29 22:32:14.307] [DEBUG] db - Mongodb connection callback
-[2016-03-29 22:32:14.308] [INFO] db - Connection established !
-[2016-03-29 22:32:16.895] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:32:16.969] [INFO] loadAddress - Dummy address obejct load successfully
-[2016-03-29 22:33:32.019] [DEBUG] db - Mongodb connection callback
-[2016-03-29 22:33:32.020] [INFO] db - Connection established !
-[2016-03-29 22:34:17.486] [DEBUG] db - Mongodb connection callback
-[2016-03-29 22:34:17.488] [INFO] db - Connection established !
-[2016-03-29 22:34:21.183] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:34:32.043] [DEBUG] loadAddress - Load dummy address objects
-[2016-03-29 22:34:32.128] [INFO] loadAddress - Dummy address obejct load successfully
+[2016-03-22 16:59:41.323] [DEBUG] db - Mongodb connection callback
+[2016-03-22 16:59:41.324] [INFO] db - Connection established !
+[2016-03-22 16:59:50.020] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:00:18.234] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:09:42.367] [DEBUG] db - Mongodb connection callback
+[2016-03-22 17:09:42.368] [INFO] db - Connection established !
+[2016-03-22 17:15:02.343] [DEBUG] db - Mongodb connection callback
+[2016-03-22 17:15:02.345] [INFO] db - Connection established !
+[2016-03-22 17:15:08.900] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:15:26.916] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:15:50.201] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:20:31.132] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:23:38.058] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:35:18.081] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:39:41.569] [DEBUG] loadAddress - Load dummy address objects
+[2016-03-22 17:47:12.920] [DEBUG] loadAddress - Load dummy address objects

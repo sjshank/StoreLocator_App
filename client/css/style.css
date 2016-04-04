@@ -1,55 +1,46 @@
-body {
-  background: #eeeeee !important;
-  background-color: #eeeeee !important;
-  color: #5e5e5e;
+body{
+    background: #eee !important;
+    background-color: #eee !important;
+     color: #5e5e5e;
 }
 h1 {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  color: #5e5e5e;
-}
-.float-left {
-  float: left;
-}
-.display-block {
-  display: block;
-}
-.border-lightBlack {
-  border: 1px solid #5e5e5e;
+   color: #5e5e5e;
 }
 .search-box {
-  margin-right: 28px;
-  width: 66%;
-  float: left;
-  border: 1px solid #5e5e5e;
+    border: 1px solid #5e5e5e;
+    float: left;
+    margin-right: 28px;
+    width: 66%;
 }
 #map {
-  height: 600px;
-  position: relative;
-  width: 100%;
-  border: 1px solid #5e5e5e;
-  border-radius: 4px;
+    border: 1px solid #5e5e5e;
+    border-radius: 4px;
+    height: 600px;
+    position: relative;
+    width: 100%;
 }
 .warningDiv {
-  width: 66%;
+    width: 66%;
+ }
+ .store-container {
+    padding-left: 30px;
+    padding-right: 30px;     
+ }
+ .store-list {
+    background-color: transparent;
+    color: #5e5e5e;
+    border: 1px solid #5e5e5e;
+    border-radius: 4px;
+    display: block;
+    margin: 0 20px 15px 0;
+    overflow: hidden;
+    padding: 8px;
+    width: 100%;
 }
-.store-container {
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.store-list {
-  background-color: transparent;
-  color: #5e5e5e;
-  border: 1px solid #5e5e5e;
-  border-radius: 4px;
-  display: block;
-  margin: 0 20px 15px 0;
-  overflow: hidden;
-  padding: 8px;
-  width: 100%;
-}
-.store-list h2 {
+ .store-list h2 {
   margin: 0;
   padding: 0;
   margin-bottom: 10px;
@@ -60,8 +51,8 @@ h1 {
   text-overflow: ellipsis;
 }
 .store-list p {
-  overflow: hidden;
   white-space: nowrap;
+  overflow: hidden;
   text-overflow: ellipsis;
 }
 .store-list .crop {
@@ -79,14 +70,14 @@ h1 {
   height: 135px;
 }
 .sectionDiv {
-  background-color: #f8f8f8;
-  border: 1px solid #5e5e5e;
-  border-radius: 4px;
+    background-color: #f8f8f8;
+    border: 1px solid #5e5e5e;
+    border-radius: 4px;
 }
 .store-section {
-  color: #5e5e5e;
-  background-color: transaprent;
-  padding: 20px;
+    color: #5e5e5e;
+    background-color: transparent;
+    padding: 20px; 
 }
 .errorTxt {
   color: red;

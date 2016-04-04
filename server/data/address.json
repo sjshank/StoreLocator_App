@@ -1,0 +1,601 @@
+[
+    {
+        "name": "Store X",
+        "address": {
+            "street": "200 S Halsted St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA",
+            "zipcode": "60661"
+        },
+        "location": {
+            "lat": "41.88108",
+            "long": "-87.63402"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "350 5th Ave",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "zipcode": "10118"
+        },
+        "location": {
+            "lat": "40.75273",
+            "long": "-73.99495"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "175 5th Ave",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "zipcode": "10010"
+        },
+        "location": {
+            "lat": "40.74321",
+            "long": "-73.98530"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "401 7th Ave",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "zipcode": "10001"
+        },
+        "location": {
+            "lat": "40.75191",
+            "long": "-73.98530"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "125 E 11th St",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "zipcode": "10003"
+        },
+        "location": {
+            "lat": "40.73767",
+            "long": "-73.98925"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "195 Grand St",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "zipcode": "10013"
+        },
+        "location": {
+            "lat": "40.72016",
+            "long": "-73.99579"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "521 S Dearborn St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA",
+            "zipcode": "60605"
+        },
+        "location": {
+            "lat": "41.87655",
+            "long": "-87.62938"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "806 S Plymouth Ct",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA",
+            "zipcode": "60605"
+        },
+        "location": {
+            "lat": "41.87223",
+            "long": "-87.62987"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "3901 S Michigan Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA",
+            "zipcode": "60653"
+        },
+        "location": {
+            "lat": "41.82427",
+            "long": "-87.62287"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "404 E Lincoln Ave",
+            "city": "Orange",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": "92865"
+        },
+        "location": {
+            "lat": "33.83645",
+            "long": "-117.84607"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "3364 E La Palma Ave",
+            "city": "Anaheim",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": "92806"
+        },
+        "location": {
+            "lat": "33.85088",
+            "long": "-117.84891"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "327 Battleground Ave",
+            "city": "Greensboro",
+            "state": "NC",
+            "country": "USA",
+            "zipcode": "27401"
+        },
+        "location": {
+            "lat": "36.07651",
+            "long": "-79.79304"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "631 S Elm St",
+            "city": "Greensboro",
+            "state": "NC",
+            "country": "USA",
+            "zipcode": "27406"
+        },
+        "location": {
+            "lat": "36.06515",
+            "long": "-79.78987"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "413 S Main St",
+            "city": "Randleman",
+            "state": "NC",
+            "country": "USA",
+            "zipcode": "27317"
+        },
+        "location": {
+            "lat": "35.81379",
+            "long": "-79.80061"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "4690 US-220",
+            "city": "Asheboro",
+            "state": "NC",
+            "country": "USA",
+            "zipcode": "27205"
+        },
+        "location": {
+            "lat": "35.61209",
+            "long": "-79.81727"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "306 E Hamlet Ave",
+            "city": "Hamlet",
+            "state": "NC",
+            "country": "USA",
+            "zipcode": "28345"
+        },
+        "location": {
+            "lat": "34.88251",
+            "long": "-79.69205"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "1994 SC-177",
+            "city": "Wallace",
+            "state": "SC",
+            "country": "USA",
+            "zipcode": "29596"
+        },
+        "location": {
+            "lat": "34.77896",
+            "long": "-79.79143"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "4241 SC-9",
+            "city": "Wallace",
+            "state": "SC",
+            "country": "USA",
+            "zipcode": "29596"
+        },
+        "location": {
+            "lat": "34.72007",
+            "long": "-79.85175"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "300 US-1",
+            "city": "Cheraw",
+            "state": "SC",
+            "country": "USA",
+            "zipcode": "29520"
+        },
+        "location": {
+            "lat": "34.68547",
+            "long": "-79.89934"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "1400 Willowbrook Mall",
+            "city": "Wayne",
+            "state": "NJ",
+            "country": "USA",
+            "zipcode": "07470"
+        },
+        "location": {
+            "lat": "40.89046",
+            "long": "-74.25932"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "1200 Morris Turnpike",
+            "city": "Short Hills",
+            "state": "NJ",
+            "country": "USA",
+            "zipcode": "07078"
+        },
+        "location": {
+            "lat": "34.17364",
+            "long": "-83.29695"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "400 Commons Way",
+            "city": "Bridgewater",
+            "state": "NJ",
+            "country": "USA",
+            "zipcode": "08807"
+        },
+        "location": {
+            "lat": "40.59031",
+            "long": "-74.61949"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "230 Tresser Boulevard",
+            "city": "Stamford",
+            "state": "CT",
+            "country": "USA",
+            "zipcode": "06901"
+        },
+        "location": {
+            "lat": "41.05343",
+            "long": "-73.53873"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "1 West Flatiron Circle",
+            "city": "Broomfield",
+            "state": "CO",
+            "country": "USA",
+            "zipcode": "80021"
+        },
+        "location": {
+            "lat": "44.81456",
+            "long": "-111.55401"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "92 Pleasant Point Rd",
+            "city": "Cushing",
+            "state": "ME",
+            "country": "USA",
+            "zipcode": "04563"
+        },
+        "location": {
+            "lat": "44.014220",
+            "long": "-69.250538"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "164 Main St",
+            "city": "Madison",
+            "state": "ME",
+            "country": "USA",
+            "zipcode": "04950"
+        },
+        "location": {
+            "lat": "44.798322",
+            "long": "-69.877293"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "430 Main St",
+            "city": "Chimney Rock",
+            "state": "NC",
+            "country": "USA",
+            "zipcode": "28720"
+        },
+        "location": {
+            "lat": "35.440006",
+            "long": "-82.248884"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "1006 W Pleasant St",
+            "city": "Pleasantville",
+            "state": "IA",
+            "country": "USA",
+            "zipcode": "50225"
+        },
+        "location": {
+            "lat": "41.393103",
+            "long": "-93.279168"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "9998 W Colfax Ave",
+            "city": "Lakewood",
+            "state": "CO",
+            "country": "USA",
+            "zipcode": "80215"
+        },
+        "location": {
+            "lat": "39.739757",
+            "long": "-105.108934"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": " 1116 15th St",
+            "city": "Sacramento",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": "95814"
+        },
+        "location": {
+            "lat": "38.576794",
+            "long": "-121.487688"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "243 N Knowles Ave",
+            "city": "New Richmond",
+            "state": "WI",
+            "country": "USA",
+            "zipcode": "54017"
+        },
+        "location": {
+            "lat": "45.124809",
+            "long": "-92.538268"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "10068 Prejean Hwy",
+            "city": "Lawtell",
+            "state": "LA",
+            "country": "USA",
+            "zipcode": "70550"
+        },
+        "location": {
+            "lat": "30.517411",
+            "long": "-92.188019"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "5921 Merriam Dr",
+            "city": "Shawnee",
+            "state": "KS",
+            "country": "USA",
+            "zipcode": "66203"
+        },
+        "location": {
+            "lat": "39.021171",
+            "long": "-94.693900"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "7905 US-27",
+            "city": "Fort White",
+            "state": "FL",
+            "country": "USA",
+            "zipcode": "32038"
+        },
+        "location": {
+            "lat": "29.923743",
+            "long": "-82.716656"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "5321 N Fwy Service Rd",
+            "city": "Ennis",
+            "state": "TX",
+            "country": "USA",
+            "zipcode": "75119"
+        },
+        "location": {
+            "lat": "32.374775",
+            "long": "-96.646414"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "2511 FM 66",
+            "city": "Waxahachie",
+            "state": "TX",
+            "country": "USA",
+            "zipcode": "75167"
+        },
+        "location": {
+            "lat": "32.360595",
+            "long": "-96.889850"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "N50W35016 Wisconsin Ave",
+            "city": "Okauchee",
+            "state": "WI",
+            "country": "USA",
+            "zipcode": "53069"
+        },
+        "location": {
+            "lat": "43.112096",
+            "long": "-88.439736"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "1818 Swamp Rd",
+            "city": "Fountainville",
+            "state": "PA",
+            "country": "USA",
+            "zipcode": "18923"
+        },
+        "location": {
+            "lat": "40.331433",
+            "long": "-75.134732"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "110 Sime Ave",
+            "city": "Tomah",
+            "state": "WI",
+            "country": "USA",
+            "zipcode": "54660"
+        },
+        "location": {
+            "lat": "43.986078",
+            "long": "-90.487534"
+        }
+    },
+    
+    {
+        "name": "Store X",
+        "address": {
+            "street": "1906 College Heights Blvd",
+            "city": "Bowling Green",
+            "state": "KY",
+            "country": "USA",
+            "zipcode": "42101"
+        },
+        "location": {
+            "lat": "36.987846",
+            "long": "-86.453910"
+        }
+    }
+]
